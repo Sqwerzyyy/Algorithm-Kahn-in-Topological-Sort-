@@ -1,7 +1,6 @@
 import time
 import random
 from collections import deque
-
 #1 Kahn's Algorithms (2 Implementations)
 def kahn_sort_adjacency_list(n_vertices, graph, in_degree):
     """
