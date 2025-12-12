@@ -143,4 +143,5 @@ kahn_sort_adjacency_list(n, graph, in_degree_copy)
 #4 кінець заміру
 end = time.perf_counter()
 #обчислення чистого часу виконання
-execution_time = end - start
+execution_time = end - start 
+не знаю чому воно зараз так показує, можете зайти в код рід мі і там гарніше виглядає останні строки тексту з поясненням про чистоту експерименту 
